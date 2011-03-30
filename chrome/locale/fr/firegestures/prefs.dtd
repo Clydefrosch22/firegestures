@@ -8,6 +8,7 @@
 <!ENTITY triggerButton.middle "Centre">
 <!ENTITY triggerButton.right "Droite">
 <!ENTITY suppress.alt "Ne pas effectuer de mouvement en maintenant la touche Alt">
+<!ENTITY usediagonals "Activer les mouvements en diagonale">
 <!ENTITY trail "Dessin de la trace">
 <!ENTITY trail.color "Couleur">
 <!ENTITY trail.size "Taille">

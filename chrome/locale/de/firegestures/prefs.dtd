@@ -9,6 +9,7 @@
 <!ENTITY triggerButton.middle "Mittlere">
 <!ENTITY triggerButton.right "Rechte">
 <!ENTITY suppress.alt "Keine Geste starten, wenn die ALT-Taste gedrückt wird">
+<!ENTITY usediagonals "Diagonale Gesten ermöglichen">
 <!ENTITY trail "Mausspur">
 <!ENTITY trail.color "Farbe">
 <!ENTITY trail.size "Größe">
